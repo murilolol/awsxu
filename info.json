@@ -1,21 +1,6 @@
 {
-	"versão": "0.2",
+	"versão": "0.3",
 	"atualização": "https://cdn.discordapp.com/attachments/1193722845864398869/1202106944421371924/painel.exe",
 	"icon": "https://i.ibb.co/pZ3tW7Q/kitty.png",
-	"status": "false",
-            "invite": "https://discord.gg/JWvPGuBwu4",
-            "clientes": [
-                "03C00218-044D-0574-5F06-810700080009 - JOÃO VITOR",
-	        "97CDA3CC-F0D7-11E2-8325-2089343D3B00 - 'die",
-	        "A4DBE0F4-BFD1-11EE-96CD-BE512A792C00 - Lau",
-	        "03000200-0400-0500-0006-000700080009 - Lucas",
-	        "035E02D8-04D3-05F1-CC06-9C0700080009 - Victor",
-	        "",
-	        "",
-	        "",
-	        "",
-	        "",
-	        "",
-	        ""
-   ]
+	"status": "true",
 }
