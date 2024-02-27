@@ -1,4 +1,4 @@
-Serial                               - Nome do PC     | Data de Compra/Expiração
+Serial                               - Nome do PC       | Data de Compra/Expiração
 
 97CDA3CC-F0D7-11E2-8325-2089343D3B00 - die              | Murilo
 743053D7-CAF0-4A99-8E90-F280B2BC846D - gustavoamaoartz  | Gusta
