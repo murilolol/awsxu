@@ -1,6 +1,6 @@
 Serial                               - Nome do PC        | Data de Compra/Expiração
 
-97CDA3CC-F0D7-11E2-8325-2089343D3B00 - 'die              | Murilo
+97CDA3CC-F0D7-11E2-8325-2089343D3B00 - 'di               | Murilo
 743053D7-CAF0-4A99-8E90-F280B2BC846D - gustavoamaoartz   | Gusta
 612D4680-D7DA-11DD-B7C7-7824AF37D9A1 - NasaGamerFPS      | MATH
 56BC5539-0647-592B-08DD-2C7E14EC7DFB - Lau               | Davi Lau
