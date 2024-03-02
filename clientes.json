@@ -173,6 +173,15 @@
       }
     }
   ],
+  "QUINZENAL": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "Validade": ""
+      }
+    }
+  ],
   "SEMANAL": [
     {
       "User": {
@@ -238,7 +247,7 @@
       }
     }
   ],
-  "QUINZENAL": [
+  "DIARIO": [
     {
       "User": {
         "Serial": "",
@@ -267,15 +276,6 @@
         "Serial": "1F32DD91-B490-C180-7590-FC34977A9429",
         "Nome": "pesti",
         "Validade": "10/03/2024"
-      }
-    }
-  ],
-  "DIARIO": [
-    {
-      "User": {
-        "Serial": "",
-        "Nome": "",
-        "Validade": ""
       }
     }
   ],
