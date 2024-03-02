@@ -1,0 +1,370 @@
+{
+  "SEMANAL": [
+    {
+      "User": {
+        "Serial": "43CB9B13-A851-E511-AEC8-1C39470DE7D9",
+        "Nome": "karla",
+        "Validade": "06/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "C7C8A5BF-C30C-734B-A6C6-FF92EF78AD99",
+        "Nome": "gabri",
+        "Validade": "07/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03C00218-044D-0564-0106-020700080009",
+        "Nome": "Administrator",
+        "Validade": "07/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "thaua",
+        "Validade": "07/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "552B15E3-9CA0-39AC-DCBC-244BFE0C4E2F",
+        "Nome": "Usuário",
+        "Validade": "07/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "4C4C4544-0035-5310-8030-B6C04F535032",
+        "Nome": "Ian",
+        "Validade": "07/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "802F4DDD-A9A0-DE11-8B1A-CAF961273301",
+        "Nome": "User",
+        "Validade": "08/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "032E02B4-0499-05EA-5006-9B0700080009",
+        "Nome": "guinh",
+        "Validade": "10/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "user",
+        "Validade": "14/03/2024"
+      }
+    }
+  ],
+  "MENSAL": [
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "jpzin",
+        "Validade": "20/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "032E02B4-0499-05F0-1906-140700080009",
+        "Nome": "Gabriel",
+        "Validade": "25/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "kabat",
+        "Validade": "25/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "861645FE-CEDF-E111-9501-000625123094",
+        "Nome": "tutux",
+        "Validade": "25/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "BC8EA9C0-1A4B-11E3-A712-D43D7E7F9207",
+        "Nome": "jr020",
+        "Validade": "26/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "PC",
+        "Validade": "26/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "16AC5F00-39F8-11EB-A9EF-CFC917E8C601",
+        "Nome": "marjo",
+        "Validade": "26/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "035E02D8-04D3-05F1-CC06-9C0700080009",
+        "Nome": "Victor",
+        "Validade": "26/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "2B006B9C-7E4E-0000-0000-000000000000",
+        "Nome": "theuss7",
+        "Validade": "26/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "B2C070CE-194B-1E32-E590-107B44A0F64B",
+        "Nome": "coltf",
+        "Validade": "27/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "032E02B4-0499-05F3-E806-E00700080009",
+        "Nome": "usuário",
+        "Validade": "27/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "gutzd",
+        "Validade": "27/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "AE2142C2-5F22-11EE-AD66-0FF70BAA680A",
+        "Nome": "gabry",
+        "Validade": "28/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "i",
+        "Validade": "28/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "79568B74-7D3C-11B5-698E-6782AADBF402",
+        "Nome": "guiirg",
+        "Validade": "28/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "1A4C089D-1C70-4ACB-A59A-93DE5C15632D",
+        "Nome": "Streeck",
+        "Validade": "30/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "9D930E7E-65BC-11E7-BD52-A42E25991800",
+        "Nome": "lui",
+        "Validade": "30/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "F24DFAEE-17DA-4FF0-A9CA-DC93E128A224",
+        "Nome": "luisaozz",
+        "Validade": "30/04/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "Administrador",
+        "Validade": "06/04/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "6609CD07-5619-E311-B730-201A06535368",
+        "Nome": "Ademir",
+        "Validade": "01/05/2024"
+      }
+    }
+  ],
+  "ANUAL": [
+    {
+      "User": {
+        "Serial": "03560274-043C-05F0-0E06-6D0700080009",
+        "Nome": "melkin",
+        "Validade": "27/03/2025"
+      }
+    },
+    {
+      "User": {
+        "Serial": "DF59A1A8-88F8-0000-0000-000000000000",
+        "Nome": "0024v",
+        "Validade": "27/03/2025"
+      }
+    },
+    {
+      "User": {
+        "Serial": "09413F27-0F45-D44B-8518-0CCC47E31FDB",
+        "Nome": "lopws",
+        "Validade": "28/04/2025"
+      }
+    }
+  ],
+  "AMIGOS": [
+    {
+      "User": {
+        "Serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
+        "Nome": "'die",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "743053D7-CAF0-4A99-8E90-F280B2BC846D",
+        "Nome": "gustavoamaoartz",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "16C7B4AD-8562-DF1D-A074-047C160BCE0F",
+        "Nome": "NasaGamerFPS",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "70DC92E9-2560-4798-83C4-D51C521681CB",
+        "Nome": "Lau",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "matheus cute",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "EB1ECD16-40A7-4F05-99CA-3C7C3F79BFA0",
+        "Nome": "Bruno",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "Usuário",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "24C5FE37-1B1D-889D-529A-50EBF628EEAB",
+        "Nome": "alex0",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "sace",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "4956B574-BA3C-11F2-2382-52106CDE1201",
+        "Nome": "nathanx",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "68602D80-DE4C-7FE0-B99F-04D9F579DD30",
+        "Nome": "Davi",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "035E02D8-04D3-0550-3206-1F0700080009",
+        "Nome": "Gustavo",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "390BAAAB-D42D-46A3-91FC-9B7466F45EC9",
+        "Nome": "ServerAdmin",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "adrie",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "E5F0B722-9E92-6205-6538-3C7C3F7C9354",
+        "Nome": "pedro",
+        "Validade": "12/12/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "samue",
+        "Validade": "12/12/2024"
+      }
+    }
+  ],
+  "SORTEIO": [
+    {
+      "User": {
+        "Serial": "34DABE00-F675-11EC-9828-E4D55BE43100",
+        "Nome": "tavin",
+        "Validade": "07/04/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "1459A1A8-46E8-0000-0000-000000000000",
+        "Nome": "maria",
+        "Validade": "10/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "1F32DD91-B490-C180-7590-FC34977A9429",
+        "Nome": "pesti",
+        "Validade": "10/03/2024"
+      }
+    }
+  ],
+  "REVENDEDORES": []
+}
