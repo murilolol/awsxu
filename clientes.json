@@ -2,9 +2,9 @@
   "PERMANENTE": [
     {
       "User": {
-        "Serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
-        "Nome": "'die",
-        "Validade": "12/12/9999"
+        "Serial": "",
+        "Nome": "",
+        "Validade": ""
       }
     }
   ],
@@ -238,6 +238,15 @@
       }
     }
   ],
+  "QUINZENAL": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "Validade": ""
+      }
+    }
+  ],
   "SORTEIO": [
     {
       "User": {
@@ -258,6 +267,15 @@
         "Serial": "1F32DD91-B490-C180-7590-FC34977A9429",
         "Nome": "pesti",
         "Validade": "10/03/2024"
+      }
+    }
+  ],
+  "DIARIO": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "Validade": ""
       }
     }
   ],
