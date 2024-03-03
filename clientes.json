@@ -32,6 +32,20 @@
     }
   ],
   "MENSAL": [
+    {
+      "User": {
+        "Serial": "24C5FE37-1B1D-889D-529A-50EBF628EEAB",
+        "Nome": "alex0",
+        "discord": "524653092386373632",
+        "Validade": "03/04/2024"
+      },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "sace",
+        "discord": "929109499141316638",
+        "Validade": "03/04/2024"
+      }
   ],
   "QUINZENAL": [
   ],
