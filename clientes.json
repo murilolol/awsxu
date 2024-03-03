@@ -1,5 +1,14 @@
 {
-  "PERMANENTE": [],
+  "PERMANENTE": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
+      }
+    }
+  ],
   "ANUAL": [
     {
       "User": {
@@ -39,18 +48,87 @@
         "discord": "929109499141316638",
         "Validade": "03/04/2024"
       }
+    },
+    {
+      "User": {
+        "Serial": "6609CD07-5619-E311-B730-201A06535368",
+        "Nome": "Ademir",
+        "discord": "1061494015666700338",
+        "Validade": "03/04/2024"
+      }
     }
   ],
-  "QUINZENAL": [],
-  "SEMANAL": [],
-  "DIARIO": [],
-  "AMIGOS": [],
+  "QUINZENAL": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
+      }
+    }
+  ],
+  "SEMANAL": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
+      }
+    }
+  ],
+  "DIARIO": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
+      }
+    }
+  ],
+  "SORTEIO": [
+    {
+      "User": {
+        "Serial": "34DABE00-F675-11EC-9828-E4D55BE43100",
+        "Nome": "tavin",
+        "discord": "1099813956308189187",
+        "Validade": "07/03/2024"
+      }
+    }
+  ],
+  "AMIGOS": [
+    {
+      "User": {
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
+      }
+    }
+  ],
   "REVENDEDORES": [
     {
       "User": {
         "Serial": "24C5FE37-1B1D-889D-529A-50EBF628EEAB",
         "Nome": "alex0",
         "discord": "524653092386373632",
+        "Validade": "03/04/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "4956B574-BA3C-11F2-2382-52106CDE1201",
+        "Nome": "nathanx",
+        "discord": "1128452711633928304",
+        "Validade": "03/04/2024"
+      },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "samue",
+        "discord": "784053431072456735 - hevest",
         "Validade": "03/04/2024"
       }
     }
