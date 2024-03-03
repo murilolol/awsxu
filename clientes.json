@@ -71,10 +71,18 @@
   "SEMANAL": [
     {
       "User": {
-        "Serial": "",
-        "Nome": "",
-        "discord": "",
-        "Validade": ""
+        "Serial": "7C8A5BF-C30C-734B-A6C6-FF92EF78AD99",
+        "Nome": "gabri",
+        "discord": "824704914634309665 - gabriel",
+        "Validade": "06/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "user",
+        "discord": "1133875127604494446 - arthz",
+        "Validade": "06/03/2024"
       }
     }
   ],
