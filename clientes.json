@@ -122,15 +122,13 @@
         "discord": "moscou",
         "Validade": "12/12/2024"
       }
-    }
-  ],
-  "REVENDEDORES": [
+    },
     {
       "User": {
         "Serial": "24C5FE37-1B1D-889D-529A-50EBF628EEAB",
         "Nome": "alex0",
         "discord": "524653092386373632",
-        "Validade": "03/04/2024"
+        "Validade": "12/12/2024"
       }
     },
     {
@@ -138,7 +136,7 @@
         "Serial": "4956B574-BA3C-11F2-2382-52106CDE1201",
         "Nome": "nathanx",
         "discord": "1128452711633928304",
-        "Validade": "03/04/2024"
+        "Validade": "12/12/2024"
       }
     },
     {
@@ -146,8 +144,9 @@
         "Serial": "03000200-0400-0500-0006-000700080009",
         "Nome": "samue",
         "discord": "784053431072456735 - hevest",
-        "Validade": "03/04/2024"
+        "Validade": "12/12/2024"
       }
     }
-  ]
+  ],
+  "REVENDEDORES": []
 }
