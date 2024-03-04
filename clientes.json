@@ -2,10 +2,10 @@
   "PERMANENTE": [
     {
       "User": {
-        "Serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
-        "Nome": "'die",
+        "Serial": "",
+        "Nome": "",
         "discord": "",
-        "Validade": "12/12/2026"
+        "Validade": ""
       }
     }
   ],
@@ -146,17 +146,17 @@
         "Serial": "03000200-0400-0500-0006-000700080009",
         "Nome": "marco",
         "discord": "916088617238163497 - marco",
-        "Validade": "24/03/2024"
+        "Validade": "11/03/2024"
       }
     }
   ],
   "DIARIO": [
     {
       "User": {
-        "Serial": "EC25FBF5-A312-6030-CEE7-BDF417E9FD7A",
-        "Nome": "Administrator",
-        "discord": "330782801853153280 - default",
-        "Validade": "04/03/2024"
+        "Serial": "",
+        "Nome": "",
+        "discord": "",
+        "Validade": ""
       }
     }
   ],
