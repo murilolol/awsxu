@@ -30,6 +30,14 @@
         "Nome": "lopws",
         "Validade": "28/04/2025"
       }
+    },
+    {
+      "User": {
+        "Serial": "03560274-043C-05F0-0E06-6D0700080009",
+        "Nome": "emexis",
+        "discord": "",
+        "Validade": "27/02/2025"
+      }
     }
   ],
   "TRIMENSAL": [
@@ -369,14 +377,6 @@
         "Nome": "matheus cute",
         "discord": "151244073062236160",
         "Validade": "12/12/2024"
-      }
-    },
-    {
-      "User": {
-        "Serial": "03560274-043C-05F0-0E06-6D0700080009",
-        "Nome": "emexis",
-        "discord": "",
-        "Validade": "27/02/2025"
       }
     },
     {
