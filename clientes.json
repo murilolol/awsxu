@@ -40,48 +40,7 @@
       }
     }
   ],
-  "TRIMENSAL": [
-    {
-      "User": {
-        "Serial": "BE56BC74-D83C-1189-F492-E389319FA49D",
-        "Nome": "subzr",
-        "discord": "764169004704858132",
-        "Validade": "05/03/2024"
-      }
-    },
-    {
-      "User": {
-        "Serial": "BC548E20-A9AA-11EA-BA9D-641C67B902E2",
-        "Nome": "Ramares",
-        "discord": "215943163586674699",
-        "Validade": "06/03/2024"
-      }
-    },
-    {
-      "User": {
-        "Serial": "3785283B-1688-8A44-AD35-C329ECC153F9",
-        "Nome": "victor",
-        "discord": "383857154421030913",
-        "Validade": "06/03/2024"
-      }
-    },
-    {
-      "User": {
-        "Serial": "832BB52E-29B5-4BC0-B325-06811459030D",
-        "Nome": "sutil",
-        "discord": "1137567967392055316",
-        "Validade": "06/03/2024"
-      }
-    },
-    {
-      "User": {
-        "Serial": "03000200-0400-0500-0006-000700080009",
-        "Nome": "Pedro",
-        "discord": "173728494910439425",
-        "Validade": "07/03/2024"
-      }
-    }
-  ],
+  "TRIMENSAL": [],
   "MENSAL": [
     {
       "User": {
@@ -168,7 +127,7 @@
         "Serial": "AA59A1A8-76AA-0000-0000-000000000000",
         "Nome": "Pc gamer",
         "discord": "1099147849289183282",
-        "Validade": "4/04/2024"
+        "Validade": "04/04/2024"
       }
     },
     {
@@ -215,14 +174,6 @@
     }
   ],
   "SEMANAL": [
-    {
-      "User": {
-        "Serial": "C7C8A5BF-C30C-734B-A6C6-FF92EF78AD99",
-        "Nome": "gabri",
-        "discord": "824704914634309665 - gabriel",
-        "Validade": "06/03/2024"
-      }
-    },
     {
       "User": {
         "Serial": "03000200-0400-0500-0006-000700080009",
