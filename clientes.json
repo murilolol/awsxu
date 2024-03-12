@@ -24,15 +24,15 @@
     }
   ],
   "SORTEIO": [],
-  "AMIGOS": [],
-  "REVENDEDORES": [
+  "AMIGOS": [
     {
       "User": {
-        "Serial": "390BAAAB-D42D-46A3-91FC-9B7466F45EC9",
-        "Nome": "ServerAdmin",
-        "discord": "MINHA VPS",
+        "Serial": "24C5FE37-1B1D-889D-529A-50EBF628EEAB",
+        "Nome": "alex0",
+        "discord": "524653092386373632 - alxx",
         "Validade": "12/12/2024"
       }
     }
-  ]
+  ],
+  "REVENDEDORES": []
 }
