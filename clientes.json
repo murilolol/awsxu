@@ -55,10 +55,10 @@
     },
     {
       "User": {
-        "Serial": "54CB66CE-6026-C32C-C3A0-04D9F576583A",
-        "Nome": "Gabriel",
-        "discord": "330782801853153280 - default",
-        "Validade": "14/03/2024"
+        "Serial": "03000200-0400-0500-0006-000700080009",
+        "Nome": "kabat",
+        "discord": "1091032558822768734 - lucky",
+        "Validade": "12/04/2024"
       }
     }
   ],
@@ -78,6 +78,14 @@
         "Nome": "user",
         "discord": "1100429940622626878 - kiev",
         "Validade": "15/03/2024"
+      }
+    },
+    {
+      "User": {
+        "Serial": "54CB66CE-6026-C32C-C3A0-04D9F576583A",
+        "Nome": "Gabriel",
+        "discord": "330782801853153280 - default",
+        "Validade": "14/03/2024"
       }
     }
   ],
