@@ -15,7 +15,7 @@
         "Serial": "DF59A1A8-88F8-0000-0000-000000000000",
         "Nome": "0024v",
         "discord": "377271843502948354 - y2gp",
-        "Validade": "27/03/2025"
+        "Validade": "25/03/2025"
       }
     },
     {
@@ -102,7 +102,16 @@
       }
     }
   ],
-  "QUINZENAL": [],
+  "QUINZENAL": [
+    {
+      "User": {
+        "Serial": "34DABE00-F675-11EC-9828-E4D55BE43100",
+        "Nome": "tavin",
+        "discord": "1099813956308189187 - hypex",
+        "Validade": "20/03/2024"
+      }
+    }
+  ],
   "SEMANAL": [
     {
       "User": {
