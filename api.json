@@ -3,10 +3,10 @@
   "CLASSIC": [
     {
       "User": {
-        "Serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
-        "Nome": "'die",
+        "serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
+        "nome": "'die",
         "discord": "1117899689707188315 - murilolol",
-        "Validade": "12/12/2024"
+        "validade": "12/12/2024"
       }
     }
   ],
@@ -15,8 +15,8 @@
   "BLACKLIST": [
     {
       "User": {
-        "Serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
-        "Nome": "'die",
+        "serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
+        "nome": "'die",
         "discord": "1117899689707188315 - murilolol",
         "motivo": "Deu reembolso em um dos nossos produtos !"
       }
