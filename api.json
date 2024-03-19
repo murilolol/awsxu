@@ -9,7 +9,16 @@
       }
     }
   ],
-  "CLASSIC": [],
+  "CLASSIC": [
+    {
+      "user": {
+        "serial": "03000200-0400-0500-0006-000700080009",
+        "nome": "Pichau",
+        "discord": "1134003622292766770 - messi",
+        "validade": "10/04/2024"
+      }
+    }
+  ],
   "BASIC": [],
   "AMG": [],
   "BLACKLIST": [
