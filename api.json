@@ -1,6 +1,5 @@
 {
-  "PREMIUM": [],
-  "CLASSIC": [
+  "PREMIUM": [
     {
       "user": {
         "serial": "97CDA3CC-F0D7-11E2-8325-2089343D3B00",
@@ -10,6 +9,7 @@
       }
     }
   ],
+  "CLASSIC": [],
   "BASIC": [],
   "AMG": [],
   "BLACKLIST": [
