@@ -27,7 +27,16 @@
   ],
   "CLASSIC": [],
   "BASIC": [],
-  "AMG": [],
+  "AMG": [
+    {
+      "user": {
+        "serial": "03000200-0400-0500-0006-000700080009",
+        "nome": "matheus cute",
+        "discord": "151244073062236160 - matheus",
+        "validade": "12/12/2024"
+      }
+    }
+  ],
   "BLACKLIST": [
     {
       "user": {
