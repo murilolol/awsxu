@@ -90,7 +90,16 @@
     }
   ],
   "CLASSIC": [],
-  "BASIC": [],
+  "BASIC": [
+    {
+      "user": {
+        "serial": "A2DF3388-BD33-61B2-CA54-3C7C3F4F639F",
+        "nome": "Neymar Jr",
+        "discord": "1096686819476766812 - phywk",
+        "validade": "19/04/2024"
+      }
+    }
+  ],
   "AMG": [
     {
       "user": {
