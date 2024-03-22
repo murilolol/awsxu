@@ -1,8 +1,9 @@
 	{
 	"versão": "1.73",
-	"atualização": "https://cdn.discordapp.com/attachments/1198583170103259136/1219450422352281601/painel.exe?ex=660b58b4&is=65f8e3b4&hm=36d209bc5f0a5c6a40c03824d5ac8f425515f436ec83d3f2020d1749786c3257&",
+	"atualização": "",
 	"icon": "https://i.ibb.co/G72fFMB/1608733-95f53.gif",
 	"notify": "https://i.ibb.co/yyHMSmy/pngegg.png",
 	"status": "true",
-        "invite": "https://discord.gg/awsxu"
+        "invite": "https://discord.gg/awsxu",
+        "servidor": "https://835f-144-22-241-121.ngrok-free.app"
 }
