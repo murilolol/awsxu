@@ -25,7 +25,7 @@ Nosso bot principal oferece uma variedade de comandos e recursos, incluindo:
 - **/troll** - Comandos divertidos para interagir com amigos (ou trolls!).
 
 ### Painel Multifunções Premium
-![Painel Multifunções Premium](https://media.discordapp.net/attachments/1293429740123852901/1339792772210622485/premium.gif?ex=67f29681&is=67f14501&hm=6e37e49c7874f005c8fb90194cefd2a934107d4650d34462938fb1043c581fd4)  
+![Painel Multifunções Premium](./premium.gif)  
 O **Painel Multifunções Premium** é uma aplicação para PC que complementa o bot, oferecendo uma interface intuitiva para gerenciar e automatizar tarefas no Discord e outros serviços. Mais detalhes sobre suas funcionalidades serão divulgados em breve no nosso servidor oficial.
 
 ## Como Usar
