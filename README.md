@@ -5,7 +5,7 @@
 A **awsxu** é uma iniciativa voltada para a criação de soluções automatizadas, com destaque para bots e funcionalidades que tornam a experiência no Discord mais eficiente e divertida. Nosso carro-chefe é um bot multifuncional que oferece uma ampla gama de comandos e automações, desde gerenciamento de mensagens até ferramentas de interação social. Além disso, agora contamos com o **Painel Multifunções Premium**, uma interface para PC que expande ainda mais nossas capacidades de automação e gestão.
 
 Junte-se ao nosso servidor oficial para testar e explorar o que temos a oferecer:  
-[**discord.gg/botcl**](https://discord.gg/botcl)
+[**discord.gg/cApcU3sGeE**](https://discord.gg/cApcU3sGeE)
 
 ## Principais Funcionalidades
 
@@ -30,7 +30,7 @@ O **Painel Multifunções Premium** é uma aplicação para PC que complementa o
 
 ## Como Usar
 
-1. **Entre no Servidor**: Acesse nosso Discord oficial em [https://discord.gg/botcl](https://discord.gg/botcl).  
+1. **Entre no Servidor**: Acesse nosso Discord oficial em [https://discord.gg/cApcU3sGeE](https://discord.gg/cApcU3sGeE).  
 2. **Adicione o Bot**: Convide o bot para o seu servidor ou use-o diretamente no nosso ambiente.  
 3. **Explore os Comandos**: Utilize os comandos listados acima para começar a automatizar e gerenciar suas atividades no Discord.  
 4. **Acesse o Painel**: Fique atento ao servidor para novidades sobre o Painel Multifunções Premium e como obtê-lo.
