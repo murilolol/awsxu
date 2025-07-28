@@ -60,6 +60,8 @@ local function requestKey()
     repeat wait() until confirmed
 end
 
+requestKey()
+
 -- ✅ Verificação de HttpGet
 local function httpCheck()
     local ok, result = pcall(function()
