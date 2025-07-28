@@ -26,9 +26,11 @@ local noclipEnabled = false
 local infiniteYieldEnabled = false
 local flyEnabled = false
 local fullbrightEnabled = false
+local godModeEnabled = false
 local flySpeed = 50
 local noclipConnection
 local flyConnection
+local godModeConnection
 local flyBodyVelocity
 local flyBodyPosition
 local lastValidPosition
@@ -254,14 +256,13 @@ local function toggleNoclip(state)
     for _, part in pairs(character:GetDescendants()) do
      if part:IsA("BasePart") then
       part.CanCollide = false
-      part.CanTouch = false -- Impede detecção de toque
+      part.CanTouch = false
      end
     end
     
     -- Verifica teleporte indesejado
     local currentPos = rootPart.Position
     if lastValidPosition and (currentPos - lastValidPosition).Magnitude > 50 then
-     -- Se a distância for muito grande, assume teleporte do anti-cheat
      rootPart.CFrame = CFrame.new(lastValidPosition)
     else
      lastValidPosition = currentPos
@@ -277,6 +278,36 @@ local function toggleNoclip(state)
      part.CanTouch = true
     end
    end
+  end
+ end
+end
+
+-- Função God Mode
+local function toggleGodMode(state)
+ godModeEnabled = state
+ if godModeConnection then
+  godModeConnection:Disconnect()
+  godModeConnection = nil
+ end
+ 
+ local character = player.Character
+ local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+ 
+ if state and humanoid then
+  humanoid.MaxHealth = math.huge
+  humanoid.Health = math.huge
+  humanoid.HealthDisplayDistance = 0 -- Oculta barra de vida
+  
+  godModeConnection = humanoid:GetPropertyChangedSignal("Health"):Connect(function()
+   if humanoid.Health < math.huge then
+    humanoid.Health = math.huge
+   end
+  end)
+ else
+  if humanoid then
+   humanoid.MaxHealth = 100
+   humanoid.Health = 100
+   humanoid.HealthDisplayDistance = 100
   end
  end
 end
@@ -377,6 +408,10 @@ local function loadPlayerTab()
  createToggle("🕊️ Voar", function(state)
   toggleFly(state)
  end, flyEnabled)
+
+ createToggle("🛡️ Anti-Dano", function(state)
+  toggleGodMode(state)
+ end, godModeEnabled)
 
  createButton("🔄 Resetar Personagem", function()
   local char = player.Character
@@ -482,6 +517,9 @@ player.CharacterAdded:Connect(function()
  end
  if flyEnabled then
   toggleFly(true)
+ end
+ if godModeEnabled then
+  toggleGodMode(true)
  end
 end)
 
