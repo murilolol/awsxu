@@ -1,7 +1,7 @@
 {
     "versão": "2.71",
     "atualização": "https://murilo.lol/download/painel",
-    "notify": "https://raw.githubusercontent.com/murilolol/awsxu/main/a.ico",
+    "notify": "https://murilo.lol/painel/icon",
     "status": "true",
     "canal": 1363608175521300630,
     "invite": "https://discord.gg/murilo",
@@ -26,4 +26,5 @@
     "roxo claro": "https://iili.io/d9F0z8P.gif",
     "ciano claro": "https://iili.io/d9kwDAP.gif"
 }
+
 
